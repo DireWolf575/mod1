@@ -1,0 +1,8 @@
+type: material
+name: Uranium
+description: A radioative, heavy, and very hard mineral. Great for walls, ammo, and even power!
+hardness: 4
+cost: 5
+color: dcd16b
+radioactivity: 1
+explosiveness: 0.3
