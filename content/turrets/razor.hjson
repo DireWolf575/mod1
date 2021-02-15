@@ -1,5 +1,7 @@
 
 type: ItemTurret
+name: Razer
+description: pewpewpew haha thorium in a duo... what a mess.
 
 size: 1
 health: 140
