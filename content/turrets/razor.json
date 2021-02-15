@@ -9,14 +9,14 @@
 	"inaccuracy": 0.1,
 	"shots" : 1,
 	
-	"targetAir": false, 
+	"targetAir": true, 
 	"targetGround": true,
-	"shootCone": 8.0,
-	"spread": 4.0,
+	"shootCone": 2.0,
+	"spread": 1.0,
 	
 	"recoil": 3,
 	"restitution": 0.2, 
-	"rotateSpeed": 5,
+	"rotateSpeed": 66,
 	
 	"shootEffect": "nuclearsmoke"
 	"shootSound": "shootSmall"
@@ -26,7 +26,7 @@
 			"trailEffect" : "artilleryTrail",
 			"speed": 9.0,
 			"lifetime" : 19,
-			"damage": 70,
+			"damage": 200,
 			"height" : 15,
 			"width" : 5,
 			"hitEffect": "blastExplosion",
