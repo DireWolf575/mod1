@@ -2,7 +2,6 @@
 name: "Test Mod"
 displayname: "Dont Bother"
 author: "TNaB"
-"version": "alpha 0.1"
-"minGameVersion": "124.1"
-
+version: "alpha 0.1"
+minGameVersion: "124.1"
 ]
