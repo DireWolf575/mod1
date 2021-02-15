@@ -39,7 +39,7 @@ ammo: {
 	requirements: [
 		lead/45
 		copper/50
-	],
+	]
 	category: turret
 	research: duo
 
