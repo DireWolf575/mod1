@@ -19,27 +19,26 @@ recoil: 3
 restitution: 0.2,
 rotateSpeed: 6
 shootEffect: nuclearsmoke
-shootSound: shootSmall"
+shootSound: shootSmall
 ammo: {
 	thorium: {
-			type : BasicBulletType
-			trailEffect : artilleryTrail
-			speed: 9.0
-			lifetime : 19
-			damage: 200
-			height : 15
-			width : 5
-			hitEffect: blastExplosion
-			shootEffect: producesmoke
-			pierce: true
-			smokeEffect: hitBulletBig
-		}
+		trailEffect : artilleryTrail
+		speed: 9.0
+		lifetime : 19
+		damage: 200
+		height : 15
+		width : 5
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		pierce: true
+		ammoMultiplier: 5
 	}
-	requirements: [
-		lead/45
-		copper/50
-    thorium/5
+}
+requirements: [
+	lead/45
+	copper/50
+	thorium/5
 	]
-	category: turret
-	research: duo
+category: turret
+research: duo
 
