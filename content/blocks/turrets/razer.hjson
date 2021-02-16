@@ -4,7 +4,7 @@ description: pewpewpew haha thorium in a duo... what a mess.
 
 size: 1
 health: 140
-reloadTime: 50
+reloadTime: 10
 range: 190
 maxAmmo: 12
 inaccuracy: 0.1
@@ -24,11 +24,13 @@ ammo: {
 	thorium: {
 		speed: 6
 		damage: 200
+		reloadMultiplier: 0.5
 		bulletWidth : 7
 		bulletHeight : 10
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
 		ammoMultiplier: 5
+		coolantMultiplier: 2
 	}
 }
 requirements: [
