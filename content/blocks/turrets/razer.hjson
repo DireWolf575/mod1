@@ -1,4 +1,4 @@
-type: ItemTurret
+type: Turret
 name: Razer
 description: pewpewpew haha thorium in a duo... what a mess.
 
@@ -22,15 +22,12 @@ shootEffect: nuclearsmoke
 shootSound: shootSmall
 ammo: {
 	thorium: {
-		trailEffect : artilleryTrail
-		speed: 9.0
-		lifetime : 19
+		speed: 6
 		damage: 200
-		height : 15
-		width : 5
+		bulletWidth : 7
+		bulletHeight : 10
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
-		pierce: true
 		ammoMultiplier: 5
 	}
 }
