@@ -37,7 +37,7 @@ requirements: [
 	lead/45
 	copper/50
 	thorium/5
-	]
+]
 category: turret
 research: duo
 
