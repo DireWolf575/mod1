@@ -22,6 +22,7 @@ shootEffect: nuclearsmoke
 shootSound: shootSmall
 ammo: {
 	thorium: {
+		type : BasicBulletType
 		speed: 6
 		damage: 200
 		reloadMultiplier: 0.5
