@@ -20,7 +20,7 @@ restitution: 0.2,
 rotateSpeed: 6
 shootEffect: nuclearsmoke
 shootSound: shootSmall
-ammo: {
+ammoTypes: {
 	thorium: {
 		type : BasicBulletType
 		speed: 6
