@@ -8,7 +8,7 @@ damage: 35
 range: 101
 powerUse: 400
 shootEffect: lightningShoot
-shootType: LightningBullet
+shootType: damageLightning
 lightningLength: 28
 collidesAir: true
 shootCone: 360
