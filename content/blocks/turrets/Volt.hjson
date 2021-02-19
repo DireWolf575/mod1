@@ -7,7 +7,7 @@ reloadTime: 10
 damage: 35
 range: 101
 powerUse: 400
-shootEffect: Fx.lightningShoot
+shootEffect: lightningShoot
 shootType: LightningBulletType
 lightningLength: 28
 collidesAir: true
