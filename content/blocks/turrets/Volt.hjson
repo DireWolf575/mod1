@@ -10,20 +10,20 @@ powerUse: 400
 shootEffect: lightningShoot
 shootType: damageLightning
 lightningLength: 28
-collidesAir: true
+collidesAir: false
 shootCone: 360
 rotateSpeed: 100
 heatColor: Color.red
 recoilAmount: 0
 shootSound: Sounds.spark
-coolantMultiplier: 0.7
-coolantUsage: 0.7
+coolantMultiplier: 2
+coolantUsage: 1
 requirements: [
 	lead/100
 	copper/250
 	plastanium/30
-  silicon/100
-  phase-fabric/25
+  	silicon/100
+ 	 phase-fabric/25
 ]
 category: turret
 research: lancer
