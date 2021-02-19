@@ -2,28 +2,28 @@ type: PowerTurret
 name: Volt
 description: 360 degrees of charged plasma and electricity. What more could a guy want?
 size: 3
+shootType: damageLightning
+lightningLength: 28
 health: 1980
 reloadTime: 10
 damage: 35
-range: 101
-powerUse: 400
+range: 100
+powerUse: 6.7
 shootEffect: lightningShoot
-shootType: damageLightning
-lightningLength: 28
 collidesAir: false
-shootCone: 360
+shootCone: 40
 rotateSpeed: 100
-heatColor: Color.red
-recoilAmount: 0
-shootSound: Sounds.spark
+heatColor: red
+recoilAmount: 0.1
+shootSound: spark
 coolantMultiplier: 2
-coolantUsage: 1
+coolantUsage: 1.2
 requirements: [
 	lead/100
 	copper/250
 	plastanium/30
   	silicon/100
- 	 phase-fabric/25
+ 	phase-fabric/25
 ]
 category: turret
 research: lancer
