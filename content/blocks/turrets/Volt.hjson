@@ -3,13 +3,13 @@ name: Volt
 description: 360 degrees of charged plasma and electricity. What more could a guy want?
 size: 3
 shootType: damageLightning
+shootEffect: lightningShoot
 lightningLength: 28
 health: 1980
 reloadTime: 10
 damage: 35
 range: 100
 powerUse: 6.7
-shootEffect: lightningShoot
 collidesAir: false
 shootCone: 40
 rotateSpeed: 100
