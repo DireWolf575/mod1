@@ -32,6 +32,17 @@ ammoTypes: {
 		smokeEffect: shootSmallSmoke
 		ammoMultiplier: 5
 		coolantMultiplier: 2
+	uranium: {
+		type : BasicBulletType
+		speed: 7
+		damage: 700
+		reloadMultiplier: 0.3
+		bulletWidth : 7
+		bulletHeight : 10
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 5
+		coolantMultiplier: 2
 	}
 }
 requirements: [
