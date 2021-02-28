@@ -1,0 +1,7 @@
+type: material
+name: Uranium
+description: Very radioactive and dangerous material. Very hard.
+explosiveness: 0.3
+radioactivity: 1
+hardness: 4
+cost: 1.3
