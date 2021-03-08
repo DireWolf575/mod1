@@ -1,0 +1,17 @@
+ammo: {
+  graphite: standardDenseBig
+  pyratite: standardIncendiaryBig,
+  thorium: standardThoriumBig
+  
+  plastic-explosive: {
+    type : BasicBulletType
+		speed: 5
+		damage: 150
+		reloadMultiplier: 1
+		bulletWidth : 16
+		bulletHeight : 21
+		shootEffect: shootBig
+		ammoMultiplier: 4
+		coolantMultiplier: 0.5
+    }
+}
