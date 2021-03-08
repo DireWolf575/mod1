@@ -4,7 +4,7 @@ ammo: {
   thorium: standardThoriumBig
   
   plastic-explosive: {
-    type : BasicBulletType
+    type : explosiveBig
 		speed: 5
 		damage: 150
 		reloadMultiplier: 1
