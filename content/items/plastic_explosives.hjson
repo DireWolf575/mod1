@@ -1,0 +1,6 @@
+type: material
+name: Plastic explosive
+description: Highly explosive, but difficult to detonate. Ideal for ammunitions.
+color: d2d2d2ff
+explosiveness: 0.4
+flammability: 0.4
